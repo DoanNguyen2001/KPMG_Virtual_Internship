@@ -39,14 +39,8 @@ Sprocket Central Pty Ltd is a KPMG client specializing in high-quality bikes and
 - Interpretation Phase:
   - Results Interpretation: Analyze model outcomes, identify customer trends, and behavior.
   - Reporting: Summarize findings, recommendations, and targeted customer segments.
-# Goals of this project: 
-Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
-Assessed data quality and completeness in preparation for analysis
-Analysed data to target high-value customers based on demographics and attributes
-Developed dashboards to communicate findings with visuals
 
-
-## Data Analysis
+# Data Analysis
 
 <div align="center">
   
