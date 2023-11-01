@@ -1,6 +1,44 @@
 # KPMG AU Data Analytics Job Simulation on Forage
 This is a personal project that uses Excel to visualize data in the form of charts. Then, I will analyze those charts to get insights to offer some advises for business owner.
 
+# Background of the project: 
+
+Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
+
+The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
+
+# Sprocket Central Pty Ltd Customer Analysis Project
+
+## Project Overview
+Sprocket Central Pty Ltd analysis to determine customer trends and behavior for targeted marketing strategies for 1000 new customers.
+
+## Client Background
+Sprocket Central Pty Ltd is a KPMG client specializing in high-quality bikes and cycling accessories.
+
+## Goals
+- Analyze existing datasets (Customer demographic, customer address, and transactions).
+- Recommend targeted marketing strategies for 1000 new customers.
+- Optimize organizational value based on the analysis.
+
+## Approach
+- Three-phased approach agreed upon:
+  - Phase 1: Data Exploration
+    - Activities: Understand data distributions, initial exploratory data analysis.
+  - Phase 2: Model Development
+    - Activities: Feature engineering, data transformations, building predictive models.
+  - Phase 3: Interpretation
+    - Activities: Analyzing model results, interpreting outcomes, and reporting findings.
+
+## Detailed Plan
+- Data Exploration Phase:
+  - Understand data distributions: Analyze customer demographic, address, and transactional data for insights.
+- Model Development Phase:
+  - Feature Engineering: Enhance dataset for improved model performance.
+  - Data Transformations: Prepare data for modeling (e.g., normalization, encoding).
+  - Modelling: Develop predictive models using labeled datasets.
+- Interpretation Phase:
+  - Results Interpretation: Analyze model outcomes, identify customer trends, and behavior.
+  - Reporting: Summarize findings, recommendations, and targeted customer segments.
 # Goals of this project: 
 Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
 Assessed data quality and completeness in preparation for analysis
